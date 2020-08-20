@@ -49,7 +49,13 @@ jacoco {
 }
 
 allprojects {
+<<<<<<< HEAD
 
+=======
+    apply(plugin = "idea")
+    group = "com.justo"
+    version = "1.0.0"
+>>>>>>> a6b39e3... simple config
     repositories {
         jcenter()
     }

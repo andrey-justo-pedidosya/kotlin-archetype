@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <a href="https://github.com/pedidosya">
   	<img src="https://www.pedidosya.com/careers/images/pedidosya-logo.svg" alt="Markdownify" width="200">
@@ -15,6 +16,9 @@
   <a href="#documentation">Documentation</a> •
   <a href="#faq">FAQ</a>
 </p>
+=======
+# Kotlin + Spring Archetype
+>>>>>>> a6b39e3... simple config
 
 ## Key Features
 

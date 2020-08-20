@@ -9,6 +9,6 @@ class GreetingController {
 
     @GetMapping("/greeting")
     fun greeting() =
-            "Hello you have started the Peya example with Gradle+Kotlin+Spring"
+            "Hello you have started the example with Gradle+Kotlin+Spring"
 
 }
